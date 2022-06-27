@@ -1,0 +1,19 @@
+{
+  "travel": [
+    {
+      "title": "Vilnius",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Balis",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "New York",
+      "completed": true,
+      "id": 3
+    }
+  ]
+}
